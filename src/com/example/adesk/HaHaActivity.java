@@ -1,5 +1,8 @@
 package com.example.adesk;
 
-public class HaHaActivity {
+import android.app.Activity;
+
+public class HaHaActivity extends Activity{
+
 
 }
