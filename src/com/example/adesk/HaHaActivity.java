@@ -27,5 +27,11 @@ public class HaHaActivity extends Activity{
 		super.dump(prefix, fd, writer, args);
 	}
 
+	@Override
+	public String getLocalClassName() {
+		// TODO Auto-generated method stub
+		return super.getLocalClassName();
+	}
+
 
 }
