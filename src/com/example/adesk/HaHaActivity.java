@@ -10,5 +10,11 @@ public class HaHaActivity extends Activity{
 		super.closeContextMenu();
 	}
 
+	@Override
+	public void finish() {
+		// TODO Auto-generated method stub
+		super.finish();
+	}
+
 
 }
